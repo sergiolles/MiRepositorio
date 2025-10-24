@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<préstamo>
+  <nombre_apelidos>Marcos gil</nombre_apelidos>
+<fecha>Préstamo: xx/xx/xxxx     Devolución: xx/xx/xxxx</fecha>
+<lector>
+    <id></id>
+    <nombre>Marcos</nombre>
+    <apellidos>gil</apellidos>
+    <teléfono>5656565</teléfono>
+        <dirección>
+            <calle>calle</calle>
+            <nombre>luis buñel</nombre>
+            <número>5</número>
+            <piso>3</piso>
+            <letra>IZQ</letra>
+            <cp>44600</cp>
+            <localidad>Alcañiz</localidad>
+            <Provincia>Teruel</Provincia>
+        </dirección>
+        <ejemplares>
+            <ejemplar1>
+              <nregistro>5</nregistro>
+              <titulo>Las aventuras de marcos 1</titulo>
+              <autor>marcos gil</autor>
+            </ejemplar1>
+              <ejemplar2>
+              <nregistro>6</nregistro>
+              <titulo>Las aventuras de marcos 2</titulo>
+              <autor>marcos gil</autor>
+            </ejemplar2>
+            <ejemplar3>
+              <nregistro>7</nregistro>
+              <titulo>Las aventuras de marcos 3</titulo>
+              <autor>marcos gil</autor>
+            </ejemplar3>
+          <nprestamo>1</nprestamo>
+        </ejemplares>
+</lector>
+
+</préstamo>
